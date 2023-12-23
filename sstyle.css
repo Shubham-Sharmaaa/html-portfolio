@@ -1,0 +1,26 @@
+html{
+    background-color: bisque;
+    font-family: 'PT Sans Narrow', sans-serif;
+    
+}
+img{
+    width:70%;
+    height: 15%;
+}
+h1{
+    font-weight: 700;
+}
+h2{
+    font-weight: 500;
+}
+h3{
+    font-family: 'Libre Baskerville', serif;
+    font-weight: normal;
+}
+div{
+    text-align: center;
+}
+.fr{
+    display:inline;
+    justify-content: space-between;
+}
